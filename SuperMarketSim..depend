@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1512677768 source:c:\users\amr_x\desktop\supermarketsim.\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+
+1512675395 c:\users\amr_x\desktop\supermarketsim.\include\item.h
+	<iostream>
+	<string>
+
+1512675395 source:c:\users\amr_x\desktop\supermarketsim.\src\item.cpp
+	"Item.h"
+
+1512677815 c:\users\amr_x\desktop\supermarketsim.\include\stock.h
+	<iostream>
+	"Item.h"
+	<fstream>
+
+1512678006 source:c:\users\amr_x\desktop\supermarketsim.\src\stock.cpp
+	"Stock.h"
+
+1512675395 source:c:\users\amr_x\desktop\supermarketsim\src\item.cpp
+	"Item.h"
+
+1512675395 c:\users\amr_x\desktop\supermarketsim\include\item.h
+	<iostream>
+	<string>
+
+1512682593 source:c:\users\amr_x\desktop\supermarketsim\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+
+1512682593 c:\users\amr_x\desktop\supermarketsim\include\stock.h
+	<iostream>
+	"Item.h"
+	<fstream>
+	<iomanip>
+
+1512682630 source:c:\users\amr_x\desktop\supermarketsim\src\stock.cpp
+	"Stock.h"
+
+1513764401 source:d:\second year\prog - 2\supermarketsim\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+	"admin.h"
+
+1512675395 d:\second year\prog - 2\supermarketsim\include\item.h
+	<iostream>
+	<string>
+
+1513764260 d:\second year\prog - 2\supermarketsim\include\stock.h
+	<iostream>
+	"Item.h"
+	<fstream>
+	<iomanip>
+
+1512675395 source:d:\second year\prog - 2\supermarketsim\src\item.cpp
+	"Item.h"
+
+1513764260 source:d:\second year\prog - 2\supermarketsim\src\stock.cpp
+	"Stock.h"
+
+1513764375 source:d:\second year\prog - 2\supermarketsim\src\admin.cpp
+	"admin.h"
+	<Stock.h>
+	<Item.h>
+
+1513761808 d:\second year\prog - 2\supermarketsim\include\admin.h
+	<Stock.h>
+
+1513858419 source:c:\users\amr_x\downloads\supermarketsim\supermarketsim\main.cpp
+	<iostream>
+	"Item.h"
+	"Stock.h"
+	"admin.h"
+
+1513857560 c:\users\amr_x\downloads\supermarketsim\supermarketsim\include\item.h
+	<iostream>
+	<string>
+	<iomanip>
+
+1513857560 c:\users\amr_x\downloads\supermarketsim\supermarketsim\include\stock.h
+	<iostream>
+	"Item.h"
+	<fstream>
+
+1513858488 c:\users\amr_x\downloads\supermarketsim\supermarketsim\include\admin.h
+	"Stock.h"
+	"Item.h"
+	"fstream"
+
+1513858488 source:c:\users\amr_x\downloads\supermarketsim\supermarketsim\src\admin.cpp
+	"admin.h"
+
+1513857953 source:c:\users\amr_x\downloads\supermarketsim\supermarketsim\src\item.cpp
+	"Item.h"
+
+1513857460 source:c:\users\amr_x\downloads\supermarketsim\supermarketsim\src\stock.cpp
+	"Stock.h"
+

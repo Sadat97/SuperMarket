@@ -1,0 +1,13 @@
+Bleech  	Washing  	98435106 20 50
+OMO     	Washing  	98456230 30 55
+Pepsi   	Drinks   	65314622 66 5
+Coke    	Drinks	 	65321890 50 5
+FriedChicken 	Takeaway 	55900133 20 30
+FrenchFries	Takeaway 	55932011 55 5
+CheeseBurger	Takeaway 	55946780 30 20
+Tomato		Vegetables	10032133 80 6
+carrot		Vegetables	10045620 50 4
+Ginger		Vegetables	10023697 40 10
+Ham		Meat		43298710 33 24
+Bacon		Meat		43256978 20 20
+Beef		Meat		43215975 30 50
