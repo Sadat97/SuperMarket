@@ -20,7 +20,7 @@ private:
   Time  ShoppingDuration;
 public:
     Customer();
-    void BuyItems(int item_id , int itemAmount);
+    void BuyItems(Item item , int itemAmount);
     int  GetTotal();
   /*  //--Getters--\\ */
    Time getCheckOut();

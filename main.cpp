@@ -1,7 +1,8 @@
 #include <iostream>
-#include "Item.h"
-#include "Stock.h"
-#include"admin.h"
+#include "include/Item.h"
+#include"include/admin.h"
+#include "include/Stock.h"
+
 using namespace std;
 
 

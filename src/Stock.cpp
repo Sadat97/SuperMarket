@@ -1,4 +1,4 @@
-#include "Stock.h"
+#include "../include/Stock.h"
 
 Stock::Stock()
 {
